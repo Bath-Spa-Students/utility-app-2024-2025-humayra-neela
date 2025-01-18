@@ -1,0 +1,22 @@
+{
+    "A1": {
+        "name": "Chips",
+        "price": 10,
+        "stock": 10
+    },
+    "A2": {
+        "name": "Soda",
+        "price": 15,
+        "stock": 5
+    },
+    "A3": {
+        "name": "Chocolate",
+        "price": 25,
+        "stock": 15
+    },
+    "A4": {
+        "name": "Biscuits",
+        "price": 20,
+        "stock": 10
+    }
+}
